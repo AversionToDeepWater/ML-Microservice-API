@@ -2,7 +2,7 @@
 ### Building a CI/CD Pipeline to deploy a Machine Leearning project in Azure 
 
 ***
-[Insert GitHub badge here]
+[![Python application test with Github Actions](https://github.com/AversionToDeepWater/ML-Microservice-API/actions/workflows/main.yml/badge.svg)](https://github.com/AversionToDeepWater/ML-Microservice-API/actions/workflows/main.yml)
 ***
 
 ## Project Scope and Objectives 
